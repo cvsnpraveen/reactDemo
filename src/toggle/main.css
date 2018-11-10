@@ -1,0 +1,843 @@
+*:focus {
+	outline: 0px;
+}
+.bx-wrapper .bx-pager.bx-default-pager a:hover {
+	background: rgb(204, 0, 0) !important;
+}
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+	background: rgb(204, 0, 0) !important;
+}
+img {
+	max-width: 100%;
+}
+a {
+	color: rgb(204, 0, 1);
+}
+a:hover {
+	color: rgb(204, 0, 1);
+}
+.bx-wrapper .bx-pager {
+	width: 100%; bottom: 0px !important; position: absolute;
+}
+.bx-wrapper .bx-controls-auto {
+	width: 100%; bottom: 0px !important; position: absolute;
+}
+.container-custom {
+	
+}
+.container-custom {
+	margin: auto -20px 10px; width: 980px; background-color: transparent !important;
+}
+.container-custom-sections {
+	margin: auto;
+}
+.section {
+	width: 100%; float: left;
+}
+.no-margin {
+	margin: 0px;
+}
+.no-padding {
+	padding: 0px;
+}
+.no-right-padding {
+	padding-right: 0px;
+}
+.no-left-padding {
+	padding-left: 0px;
+}
+.bx-wrapper .bx-viewport {
+	margin: 0px; border: 0px currentColor; border-image: none; box-shadow: none;
+}
+.text-center {
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}
+.text-left {
+	text-align: left;
+}
+.bx-wrapper .bx-pager.bx-default-pager a:hover {
+	background: rgb(204, 0, 1);
+}
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+	background: rgb(204, 0, 1);
+}
+.bx-wrapper .bx-pager.bx-default-pager a {
+	background: rgb(170, 170, 170);
+}
+.bx-wrapper .bx-viewport {
+	left: 0px;
+}
+.bx-wrapper {
+	margin: 0px auto; padding: 0px; position: relative;
+}
+.page-module .transparent {
+	padding-bottom: 0px; border-bottom-color: transparent; border-bottom-width: 2px; border-bottom-style: solid; background-color: transparent;
+}
+ul.bxslider {
+	margin: 0px;
+}
+#slider {
+	width: 100% !important; margin-left: 0px; background-color: transparent !important;
+}
+#slider .carousel-indicators li {
+	background: rgb(93, 93, 93); border: 0px currentColor; border-image: none; margin-right: 50px;
+}
+#slider .carousel-indicators li:last-child {
+	margin-right: 0px;
+}
+#slider .carousel-indicators li.active {
+	background: rgb(204, 0, 1); width: 10px; height: 10px; margin-top: 1px; margin-bottom: 1px;
+}
+#slider .carousel-caption {
+	background: none; left: 20px; top: 12px; text-align: left; padding-top: 0px; padding-left: 2px !important; max-width: 450px;
+}
+#slider h2 {
+	color: rgb(54, 52, 52); line-height: 50px; font-size: 48px; text-shadow: 0px 1px 1px #fff;
+}
+#slider p {
+	transition:0.5s; color: rgb(103, 99, 100); line-height: 1.1em; padding-bottom: 20px; font-size: 18px; margin-top: 30px; visibility: hidden; opacity: 0; text-shadow: 0px 1px 0px rgba(255,255,255,0.47); -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -o-transition: all 0.5s;
+}
+#slider .bx-pager.bx-default-pager {
+	padding: 0px; bottom: 12px;
+}
+#slider .btn {
+	background: rgb(204, 0, 1); border-width: 0px 0px 2px; border-style: none none solid; border-color: currentColor currentColor rgb(127, 0, 0); padding: 7px 12px; border-radius: 0px; transition:0.5s; border-image: none; color: white; line-height: 20px; font-size: 18px; margin-top: 30px; margin-bottom: 10px; visibility: hidden; opacity: 0; box-shadow: none; text-shadow: 0px -1px 0px #300; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -o-transition: all 0.5s;
+}
+#slider .btn:hover {
+	background: rgb(171, 0, 0); transition:background 0.3s; -webkit-transition: background 0.3s; -moz-transition: background 0.3s; -o-transition: background 0.3s;
+}
+#slider:hover {
+	transition:0.5s; -webkit-transition: all 0.5s; -moz-transition: all 0.5s; -o-transition: all 0.5s;
+}
+#dynamic-sections {
+	width: 100%; float: left; background-color: transparent !important;
+}
+#dynamic-sections .container-custom {
+	overflow: hidden;
+}
+.infos {
+	margin-bottom: 10px;
+}
+.bx-wrapper .bx-pager {
+	padding: 0px; height: 15px; bottom: -18px;
+}
+.info {
+	
+}
+.info .item {
+	padding-bottom: 11px; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: solid; display: inline-block;
+}
+.info-inner .item {
+	padding: 5px 0px 10px; width: 100%; height: 150px; vertical-align: top; border-bottom-color: rgb(228, 225, 225); border-bottom-width: 1px; border-bottom-style: solid; display: inline-block;
+}
+.info-inner .item .article-category {
+	color: rgb(93, 93, 93); padding-bottom: 2px; font-size: 12px; font-style: italic;
+}
+.info :last-child.item {
+	border: 0px currentColor; border-image: none;
+}
+.info-inner div.linked:hover h4 {
+	color: rgb(204, 0, 0);
+}
+.info-inner div.linked:hover p {
+	color: rgb(153, 153, 153);
+}
+.info-inner .item a:hover {
+	text-decoration: none;
+}
+.info4 .linked a {
+	color: rgb(51, 51, 51);
+}
+.info4 div.linked:hover h4 {
+	color: rgb(204, 0, 0);
+}
+.info4 div.linked:hover p {
+	color: rgb(153, 153, 153);
+}
+.info h3 {
+	color: rgb(204, 0, 1); font-size: 30px; margin-top: 0px; border-bottom-color: black; border-bottom-width: 2px; border-bottom-style: solid;
+}
+.info p {
+	color: rgb(93, 93, 93); font-size: 13px; margin-bottom: 0px;
+}
+.info .thumb {
+	width: 90px; margin-right: 5%; float: left;
+}
+.info .caption {
+	float: left;
+}
+.info .caption-thumb {
+	width: 59%; float: left;
+}
+.info-inner .caption-thumb {
+	width: 100%; margin-left: 1px; float: left;
+}
+.info-inner {
+	padding: 18px 15px 12px; height: 520px; background-color: white;
+}
+.info-inner h3 {
+	color: rgb(51, 51, 51); padding-bottom: 5px; font-size: 26px; margin-top: 0px; margin-bottom: 0px; border-bottom-color: rgb(228, 225, 225); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.info-inner h4 {
+	margin: 5px 0px; color: rgb(51, 51, 51); font-size: 16px; font-weight: bold;
+}
+.col4 {
+	width: 31.6%; margin-right: 2.5%; float: left;
+}
+:last-child.col4 {
+	margin-right: 0px;
+}
+.info1 .info-inner-menu {
+	background: rgb(204, 0, 1); padding: 10px 0px 0px; width: 100%; height: 690px; overflow: hidden; border-bottom-color: rgba(255, 255, 255, 0.4); border-bottom-width: 1px; border-bottom-style: solid; float: left; display: inline-block; position: relative; cursor: pointer;
+}
+.info1 .info-inner-menu ul {
+	background: rgb(255, 255, 255); margin: 0px;
+}
+.accord-header {
+	padding: 20px; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.non-acc-header {
+	padding: 20px; border-bottom-color: rgb(255, 255, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.accordion div:last-child {
+	border: currentColor !important; border-image: none !important;
+}
+.info-inner-menu p {
+	color: rgb(51, 0, 0); font-size: 14px !important; font-weight: 300; margin-top: 0px; margin-bottom: 0px; text-shadow: 0px 2px 0px #db2929;
+}
+.accord-content {
+	display: none;
+}
+.info1 h4 {
+	color: rgb(252, 252, 252); font-size: 26px; font-weight: 300; margin-top: 5px; text-shadow: 0px 1px 0px #600;
+}
+.info1 p {
+	color: rgb(51, 0, 0); font-size: 16px; font-weight: 300; margin-bottom: 0px; text-shadow: 0px 2px 0px #db2929;
+}
+.info1 .info-inner-menu ul {
+	padding: 0px; width: 100%;
+}
+.info1 .info-inner-menu ul > li {
+	list-style: none; padding: 5px 20px 15px; border-bottom-color: rgb(228, 225, 225); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.panel-default {
+	border: currentColor !important; border-image: none !important;
+}
+.info1 .info-inner-menu ul li:last-child {
+	border: currentColor; border-image: none; margin-bottom: 0px;
+}
+.info1 .info-inner-menu ul li a:hover {
+	text-decoration: none;
+}
+.info1 .info-inner-menu ul li a p.title {
+	font-weight: bold; text-shadow: none;
+}
+.info1 .info-inner-menu ul li a p {
+	text-shadow: none;
+}
+.info1 :last-child.info-inner-menu {
+	border: 0px currentColor; border-image: none;
+}
+#menu ul li a:hover {
+	text-decoration: none;
+}
+#menu ul li ul {
+	text-decoration: none;
+}
+#menu ul li {
+	text-decoration: none;
+}
+#menu ul li a {
+	text-decoration: none;
+}
+.info-inner-menu ul ul {
+	background: rgb(255, 255, 255); padding: 10px !important; width: 117% !important; margin-left: -20px; display: none;
+}
+.info-inner-menu ul ul li p {
+	font-size: 13px !important;
+}
+.info-inner-menu ul ul li {
+	padding: 10px !important;
+}
+.info-inner-menu ul ul li:last-child {
+	border: 0px currentColor; border-image: none;
+}
+.info-inner-menu ul ul a {
+	
+}
+.info-inner-menu ul ul a::before {
+	left: 10px; position: absolute;
+}
+.info2 {
+	line-height: 17px;
+}
+.info3 {
+	line-height: 17px;
+}
+.info2 p {
+	line-height: 16px;
+}
+.info3 p {
+	line-height: 16px;
+}
+.info5 p {
+	line-height: 16px;
+}
+.info6 p {
+	line-height: 16px;
+}
+.info4 .thumb {
+	width: 42%; margin-top: 13px; margin-right: 4%; float: left;
+}
+.info4 .caption-thumb {
+	width: 54%; float: left;
+}
+.col8 {
+	width: 65.9%; float: left;
+}
+.col8 .item {
+	padding: 11px 20px 21px; border: 0px currentColor; border-image: none; margin-bottom: 9px; background-color: white;
+}
+.col8 :last-child.item {
+	margin-bottom: 0px;
+}
+.col8 p {
+	font-size: 14px; font-weight: 500;
+}
+.thumb-text-item {
+	height: 142px;
+}
+.masonry .grid {
+	float: left; position: relative;
+}
+.masonry :last-child.grid {
+	margin-right: 0px !important;
+}
+.masonry .grid .overlay {
+	padding: 60px 20px; top: 0px; width: 100%; height: 100%; color: white; position: absolute; z-index: 1; background-color: rgba(0, 0, 0, 0.5);
+}
+.masonry .grid h4 {
+	font-size: 24px;
+}
+.masonry .grid p {
+	color: white; font-size: 16px;
+}
+.masonry .grid.single {
+	width: 100%;
+}
+.masonry .grid.single .caption {
+	width: 315px; float: left;
+}
+.masonry .grid.double {
+	width: 100%;
+}
+.masonry .grid.double .bx-pager {
+	bottom: 6px;
+}
+.masonry .grid.double .overlay {
+	background: none; padding-right: 0px; padding-left: 0px;
+}
+.masonry .grid.double .caption {
+	margin: auto; padding: 10px 20px; left: 0px; top: 0px; width: 100%; height: 140px; bottom: 0px; float: left; position: absolute; background-color: rgba(0, 0, 0, 0.5);
+}
+.masonry .single {
+	overflow: hidden;
+}
+.masonry .double {
+	overflow: hidden;
+}
+.masonry .single .slide:hover img {
+	transform: scale(1.2);
+}
+.masonry .double .slide:hover img {
+	transform: scale(1.2);
+}
+.masonry .single img {
+	transition:transform, 0.3s; -webkit-transition: transform, 0.3s; -moz-transition: transform, 0.3s; -o-transition: transform, 0.3s;
+}
+.masonry .double img {
+	transition:transform, 0.3s; -webkit-transition: transform, 0.3s; -moz-transition: transform, 0.3s; -o-transition: transform, 0.3s;
+}
+.masonry .single .caption h4 {
+	transition:margin, 0.3s; margin-top: 40px; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+.masonry .double .caption h4 {
+	transition:margin, 0.3s; margin-top: 40px; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+.masonry .single .caption p {
+	transition:margin, 0.3s; margin-top: 40px; visibility: hidden; opacity: 0; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+.masonry .double .caption p {
+	transition:margin, 0.3s; margin-top: 40px; visibility: hidden; opacity: 0; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+.masonry .single:hover .caption h4 {
+	transition:margin, 0.3s; margin-top: 20px; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+.masonry .double:hover .caption h4 {
+	transition:margin, 0.3s; margin-top: 20px; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+.masonry .single:hover > img {
+	transform: scale(1.2);
+}
+.masonry .double:hover > img {
+	transform: scale(1.2);
+}
+.masonry .single:hover .caption p {
+	transition:margin, 0.3s; margin-top: 10px; visibility: visible; opacity: 1; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+.masonry .double:hover .caption p {
+	transition:margin, 0.3s; margin-top: 10px; visibility: visible; opacity: 1; -webkit-transition: margin, 0.3s; -moz-transition: margin, 0.3s; -o-transition: margin, 0.3s;
+}
+#menu-template {
+	display: block;
+}
+#timer-section {
+	width: 100%; text-align: center; margin-bottom: 30px; float: left;
+}
+#timer-section .title {
+	font-size: 28px; font-weight: 500;
+}
+#timer-section .event-name {
+	color: rgb(204, 0, 1); font-size: 34px; font-weight: 900;
+}
+#timer-section .timer {
+	float: left; position: relative;
+}
+#timer-section .timer .timer .message p {
+	font-size: 24px;
+}
+#timer-section .timer .overlay {
+	background: rgba(255, 255, 255, 0.5); padding: 30px; width: 100%; height: 100%;
+}
+#timer-section .flip-clock-wrapper ul {
+	width: 78px; height: 104px;
+}
+#timer-section .flip-clock-wrapper ul li {
+	line-height: 100px;
+}
+#timer-section .flip-clock-divider {
+	top: 7px;
+}
+#timer-section .flip-clock-wrapper {
+	margin: 24px auto 20px; width: 765px;
+}
+#timer-section .flip-clock-divider .flip-clock-label {
+	text-transform: uppercase; font-size: 18px; font-weight: bold;
+}
+#timer-section .flip-clock-divider .flip-clock-label {
+	top: 6.3em; right: -112px; position: absolute;
+}
+#timer-section .flip-clock-wrapper ul li a div.up::after {
+	top: 50px;
+}
+#timer-section .timer-border {
+	width: 100%; margin-top: 20px; margin-bottom: 20px; border-bottom-color: rgb(196, 196, 196); border-bottom-width: 1px; border-bottom-style: solid; float: left;
+}
+#timer-section .timer-col-2 {
+	width: 49%; margin-right: 2%; min-height: 267px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper {
+	width: 370px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-divider {
+	top: 6px; height: 55px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 55px; font-size: 30px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper ul {
+	width: 45px; height: 55px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-label {
+	left: 12px; top: 63px; font-size: 12px;
+}
+#timer-section .timer-col-3 {
+	width: 33.33%; min-height: 238px;
+}
+#timer-section .timer-col-3 .overlay {
+	padding: 20px 10px; position: absolute;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper {
+	width: 280px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper .flip-clock-divider {
+	top: 6px; height: 55px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 43px; font-size: 20px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper ul {
+	padding: 0px; width: 36px; height: 46px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper .flip-clock-label {
+	left: -10px; top: 58px; font-size: 10px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper .flip-clock-divider {
+	padding: 0px; left: -7px; top: 3px; width: 0px; height: 51px;
+}
+#timer-section .timer-col-3 .flip-clock-dot {
+	width: 5px; height: 5px;
+}
+#timer-section .timer-3 {
+	margin-right: 0px;
+}
+#timer-section .timer-1 {
+	width: 100%; margin-top: 20px;
+}
+@media all and (max-width:980px)
+{
+#timer-section .timer-col-2 {
+	width: 100%; background-size: cover;
+}
+#timer-section .timer-col-3 {
+	width: 100%; background-size: cover;
+}
+#timer-section .timer-1 .flip-clock-wrapper {
+	width: 500px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-divider {
+	top: 6px; height: 55px;
+}
+#timer-section .timer-1 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 55px; font-size: 30px;
+}
+#timer-section .timer-1 .flip-clock-wrapper ul {
+	width: 45px; height: 55px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-label {
+	left: 12px; top: 63px; font-size: 12px;
+}
+}
+@media all and (max-width:800px)
+{
+.container-custom {
+	max-width: 100%;
+}
+.info {
+	height: auto;
+}
+.info-inner {
+	height: auto;
+}
+.info1 .item ul {
+	left: 0px; top: 110%; position: absolute;
+}
+.info1 .item:hover ul {
+	left: 0px; top: 100%;
+}
+#slider {
+	margin-top: 15px;
+}
+#slider .carousel-caption {
+	top: 0px;
+}
+.infos .col4 {
+	width: 100%;
+}
+.infos .col8 {
+	width: 100%;
+}
+.infos .col8 .item {
+	margin-bottom: 10px;
+}
+.infos .grid img {
+	width: 100%;
+}
+.infos .info {
+	margin-bottom: 30px;
+}
+.infos .info .item {
+	width: 100%;
+}
+.infos .info .caption-thumb {
+	width: 80%; float: left;
+}
+#slider .carousel-caption {
+	max-width: 100%;
+}
+#slider .carousel-caption h2 {
+	font-size: 35px;
+}
+#slider .carousel-caption p {
+	font-size: 17px;
+}
+}
+@media all and (max-width:640px)
+{
+#slider .carousel-caption p {
+	font-size: 16px;
+}
+#slider .carousel-caption h2 {
+	font-size: 22px;
+}
+.carousel-inner > .item {
+	height: 340px;
+}
+#timer-section .timer-1 .clock {
+	width: 368px;
+}
+#timer-section .timer-col-2 .clock {
+	width: 277px;
+}
+#timer-section .timer-1 {
+	min-height: auto;
+}
+#timer-section .timer-col-2 {
+	min-height: auto;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-divider {
+	top: 6px; height: 55px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-divider {
+	top: 6px; height: 55px;
+}
+#timer-section .timer-1 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 43px; font-size: 20px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 43px; font-size: 20px;
+}
+#timer-section .timer-1 .flip-clock-wrapper ul {
+	padding: 0px; width: 36px; height: 46px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper ul {
+	padding: 0px; width: 36px; height: 46px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-label {
+	left: -10px; top: 58px; font-size: 10px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-label {
+	left: -10px; top: 58px; font-size: 10px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-divider {
+	padding: 0px; left: -7px; top: 3px; width: 0px; height: 51px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-divider {
+	padding: 0px; left: -7px; top: 3px; width: 0px; height: 51px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-dot {
+	width: 5px; height: 5px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-dot {
+	width: 5px; height: 5px;
+}
+}
+@media all and (max-width:480px)
+{
+div#dynamic-sections {
+	padding-top: 30px;
+}
+#slider .carousel-caption h2 {
+	color: rgb(54, 52, 52) !important; -ms-word-wrap: break-word; max-width: 300px;
+}
+#slider .carousel-caption p {
+	color: rgb(54, 52, 52) !important; -ms-word-wrap: break-word; max-width: 300px;
+}
+.info-inner .item {
+	height: auto;
+}
+.info-inner h4 {
+	padding: 10px 0px;
+}
+#slider .btn {
+	width: 95% !important;
+}
+.infos .masonry .grid .overlay {
+	padding: 18px 16px;
+}
+.infos .masonry .grid.double {
+	width: 100%;
+}
+.infos .masonry .grid.double .caption {
+	height: auto;
+}
+.infos .info4 .thumb {
+	width: 100%; margin-bottom: 20px;
+}
+.infos .info4 .thumb img {
+	width: 100%;
+}
+#timer-section .timer-1 .overlay {
+	padding: 16px;
+}
+}
+@media all and (max-width:414px)
+{
+#bxslider img {
+	width: 100%; max-width: none;
+}
+.infos .masonry .grid.single {
+	height: 330px; overflow: hidden;
+}
+.infos .masonry .grid.single img {
+	width: 269%; max-width: none;
+}
+#timer-section .timer-1 .clock {
+	width: 248px;
+}
+#timer-section .timer-col-2 .clock {
+	width: 188px;
+}
+#timer-section .timer-col-3 .clock {
+	width: 188px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-divider {
+	top: -7px; height: 55px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-divider {
+	top: -7px; height: 55px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper .flip-clock-divider {
+	top: -7px; height: 55px;
+}
+#timer-section .timer-1 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 27px; font-size: 12px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 27px; font-size: 12px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper ul li a div div.inn {
+	line-height: 27px; font-size: 12px;
+}
+#timer-section .timer-1 .flip-clock-wrapper ul {
+	padding: 0px; width: 21px; height: 28px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper ul {
+	padding: 0px; width: 21px; height: 28px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper ul {
+	padding: 0px; width: 21px; height: 28px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-label {
+	left: -38px; top: 44px; font-size: 10px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-label {
+	left: -38px; top: 44px; font-size: 10px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper .flip-clock-label {
+	left: -38px; top: 44px; font-size: 10px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-divider {
+	padding: 0px; left: -7px; top: 3px; width: 0px; height: 51px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-divider {
+	padding: 0px; left: -7px; top: 3px; width: 0px; height: 51px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper .flip-clock-divider {
+	padding: 0px; left: -7px; top: 3px; width: 0px; height: 51px;
+}
+#timer-section .timer-1 .flip-clock-wrapper .flip-clock-dot {
+	width: 3px; height: 3px;
+}
+#timer-section .timer-col-2 .flip-clock-wrapper .flip-clock-dot {
+	width: 3px; height: 3px;
+}
+#timer-section .timer-col-3 .flip-clock-wrapper .flip-clock-dot {
+	width: 3px; height: 3px;
+}
+}
+@media all and (max-width:320px)
+{
+#bxslider img {
+	width: 100%; max-width: none;
+}
+.infos .masonry .grid.single img {
+	width: 307%; max-width: none;
+}
+}
+:first-of-type:last-of-type.bx-pager-item {
+	display: none !important;
+}
+.accordion {
+	
+}
+.panel-body {
+	margin: 0px; padding: 0px;
+}
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+	border: 0px currentColor; border-image: none; background-color: rgb(255, 255, 255) !important;
+}
+.panel {
+	background-color: transparent !important;
+}
+.panel-default > .panel-heading {
+	color: rgb(51, 51, 51); border-bottom-color: rgb(204, 204, 204) !important; border-bottom-width: 1px !important; border-bottom-style: solid !important; background-color: transparent;
+}
+div#headingFour {
+	border: currentColor !important; border-image: none !important;
+}
+.panel-default {
+	border-color: transparent;
+}
+#menu a {
+	text-decoration: none !important;
+}
+.panel-body p {
+	font-size: 13px !important;
+}
+.panel-heading {
+	padding: 10px 20px; border-bottom-color: transparent; border-bottom-width: 1px; border-bottom-style: solid; border-top-left-radius: 3px; border-top-right-radius: 3px;
+}
+@media all and (min-width:920px)
+{
+#slider:hover h2 {
+	margin-top: 0px;
+}
+#slider:hover p {
+	margin-top: 0px; visibility: visible; opacity: 1;
+}
+#slider:hover .btn {
+	margin-top: 0px; visibility: visible; opacity: 1;
+}
+}
+@media all and (max-width:920px)
+{
+#dynamic-sections .bx-wrapper .bx-pager {
+	width: 100%; bottom: -35px !important; position: absolute;
+}
+#dynamic-sections .bx-wrapper .bx-controls-auto {
+	width: 100%; bottom: -35px !important; position: absolute;
+}
+#slider .bx-wrapper .bx-pager {
+	width: 100%; bottom: -15px !important; position: absolute;
+}
+#slider .bx-wrapper .bx-controls-auto {
+	width: 100%; bottom: -15px !important; position: absolute;
+}
+.info-inner .item .article-category {
+	line-height: 1; padding-bottom: 0px;
+}
+.info-inner h4 {
+	margin-top: 0px;
+}
+#slider .btn {
+	visibility: visible; opacity: 1;
+}
+#slider p {
+	padding-bottom: 0px; margin-top: 0px; visibility: visible; opacity: 1;
+}
+.container-custom {
+	margin: auto 0px 10px; width: 100%; background-color: transparent !important;
+}
+#slider .carousel-caption h2 {
+	color: rgb(54, 52, 52) !important; line-height: 1.6; -ms-word-wrap: break-word; max-width: 700px;
+}
+#slider .carousel-caption p {
+	color: rgb(54, 52, 52) !important; line-height: 1.6; -ms-word-wrap: break-word; max-width: 700px;
+}
+#slider .carousel-caption {
+	background: none; left: 0px; top: 12px; text-align: left; padding-top: 0px; padding-left: 12px !important; position: relative !important; max-width: 100%;
+}
+.info-inner-menu ul ul {
+	background: rgb(255, 255, 255); padding: 10px !important; width: 100% !important; margin-left: 0px; display: none;
+}
+}
+@media screen and (max-width:900px) and (min-width:800px)
+{
+.panel-heading {
+	padding: 10px;
+}
+}
